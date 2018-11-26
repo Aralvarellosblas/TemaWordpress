@@ -10,6 +10,8 @@
  * @subpackage Twenty_Seventeen
  * @since 1.0
  * @version 1.2
+ * 
+ * Añadido mensaje en el footer
  */
 
 ?>
