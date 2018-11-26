@@ -13,6 +13,8 @@
  * @subpackage Twenty_Seventeen
  * @since 1.0
  * @version 1.0
+ * 
+ * Cambios añadidos al loop de la página
  */
 
 get_header(); ?>
