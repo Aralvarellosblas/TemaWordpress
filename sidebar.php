@@ -8,6 +8,8 @@
  * @subpackage Twenty_Seventeen
  * @since 1.0
  * @version 1.0
+ * 
+ * Añadida una nueva sidebar
  */
 
 if ( ! is_active_sidebar( 'sidebar-1' ) ) {
